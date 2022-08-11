@@ -46,3 +46,11 @@ npm run prod
 
 ## Acknowledgement
 I'm very grateful to the people at [Frontendmentor.io](https://frontendmentor.io) for providing designs and challenges that help me improve my skills as a web developer.
+
+
+
+## Contribution
+## Conclusion
+It would be amazing for student who are into graphic design and/or front end programers to use fronted mentor for practice and learning how to create posters and/or front end application. 
+
+they will learn different languages and expand on their capabilities.
